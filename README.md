@@ -4,8 +4,8 @@ Appium Project with Gauge
 
 Testing Turkish Airlines Mobile Application with Appium
 
-Click to Allow button.
-Accept cookies.
+.Click to Allow button.
+.Accept cookies.
 Click to get ticket button.
 Choose One way flight seleced.
 Going direction is selected.
